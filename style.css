@@ -1,0 +1,59 @@
+:root {
+--color-prymary: #2E2F42;
+--color-secondary: #f4f4fd;
+--color-von: #4D5AE5;
+--color-stile: #404BBF;
+--color-set: #434455;
+--color-non: #FFFFFF;
+--color-web: #4d5ae5;
+--color-nav: #404bbf;
+--color-ger:#31d0aa;
+--color-dairy:#FCFCFC;
+--color-light-slate:#8e8f99;
+}
+
+*,
+*::before,
+*::after {
+box-sizing: border-box;
+}
+
+body {
+color: var(--color-set);
+background-color: var(--color-non);
+font-family: 'Manrope';
+font-size: 48px;
+}
+
+.container{
+max-width: 1280px;
+padding-left:100px;
+padding-right:100px;
+}
+
+h1,h2,h3,h4,h5,h6{
+margin: 0;
+}
+
+a {
+text-decoration: none;
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding-left: 0;
+}
+
+img {
+display: block;
+}
+/* heder */
+.heder-div{
+
+}
+
+/* hero */
+.hero-info{
+    
+}
