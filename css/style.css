@@ -1,15 +1,12 @@
 :root {
 --color-prymary: #2E2F42;
 --color-secondary: #f4f4fd;
---color-von: #4D5AE5;
---color-stile: #404BBF;
 --color-set: #434455;
 --color-non: #FFFFFF;
 --color-web: #4d5ae5;
---color-nav: #404bbf;
 --color-ger:#31d0aa;
---color-dairy:#FCFCFC;
 --color-light-slate:#8e8f99;
+--color-web: #
 }
 
 *,
@@ -49,11 +46,167 @@ img {
 display: block;
 }
 /* heder */
+.heder{
+
+}
 .heder-div{
 
 }
 
+.heder-logo{
+
+}
+
+.link-heder{
+
+}
+
+.logo-span{
+
+}
+
+.heder-wrap{
+
+}
+
+.heder-navigation{
+
+}
+
+.heder-list{
+
+}
+
+.heder-wrap-link{
+
+}
+
+
+.hero-adres{
+
+}
+
+.hero-socials-info{
+
+}
+.nav-mailto{
+
+}
+
+.tel{
+
+}
 /* hero */
+.hero{
+
+}
+
+.hero-div{
+
+}
+
 .hero-info{
-    
+
+}
+
+/* project-experience */
+
+.project-experience{
+
+}
+
+.project-div{
+
+}
+
+.project-wrap{
+
+}
+
+.project-input{
+
+}
+
+.project-tabl{
+
+}
+
+/* tech-skills */
+
+.tech-skills{
+
+}
+
+.tech-div{
+
+}
+
+.tech-wrap{
+
+}
+
+.tech-input{
+
+}
+
+.tech-tabl{
+
+}
+
+/* soft-skills */
+
+.soft-skills{
+
+}
+
+.soft-div{
+
+}
+
+.soft-wrap{
+
+}
+
+.soft-input{
+
+}
+
+.soft-tabl{
+
+}
+
+/* section-languages */
+
+.section-languages{
+
+}
+
+.section-languages-div{
+
+}
+
+.section-languages-wrap{
+
+}
+
+.languages-paragraf{
+
+}
+
+.section-languages-input{
+
+}
+
+.section-languages-tabl{
+
+}
+
+/* interests */
+
+.section-interests{
+
+}
+
+.interests-div{
+
 }
