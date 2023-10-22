@@ -47,14 +47,19 @@ display: block;
 }
 /* heder */
 .heder{
-
+padding-bottom: 9px;
 }
 .heder-div{
-
+display: flex;
+align-items: center;
+text-align: center;
 }
 
 .heder-logo{
-
+padding-right: 40px;
+padding-left: 15px;
+padding-bottom: 20px;
+padding-top: 20px;
 }
 
 .link-heder{
@@ -66,15 +71,24 @@ display: block;
 }
 
 .heder-wrap{
-
+display: flex;
+align-items: center;
+text-align: center;
+padding-right: 28px ;
 }
 
 .heder-navigation{
-
+display: flex;
+align-items: center;
+text-align: center;
+flex-wrap: nowrap;
 }
 
 .heder-list{
-
+display: flex;
+align-items: center;
+text-align: center;
+gap: 40px;
 }
 
 .heder-wrap-link{
@@ -82,12 +96,13 @@ display: block;
 }
 
 
-.hero-adres{
+.heder-adres{
 
 }
 
-.hero-socials-info{
-
+.heder-socials-info{
+display: flex;
+gap: 25px;
 }
 .nav-mailto{
 
@@ -102,7 +117,9 @@ display: block;
 }
 
 .hero-div{
-
+padding: 30px 20px;
+border-radius: 30px;
+background-color: #2E2F42;
 }
 
 .hero-info{
