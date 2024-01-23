@@ -23,6 +23,7 @@ font-size: 20px;
 }
 
 .container{
+margin: 0 auto;
 max-width: 1280px;
 padding-left:100px;
 padding-right:100px;
@@ -48,7 +49,10 @@ display: block;
 /* heder */
 .heder{
 padding-bottom: 9px;
+margin-left: auto;
+margin-right: auto;
 }
+
 .heder-div{
 display: flex;
 align-items: center;
@@ -62,13 +66,13 @@ padding-bottom: 20px;
 padding-top: 20px;
 }
 
-.link-heder{
+/* .link-heder{
 
 }
 
 .logo-span{
 
-}
+} */
 
 .heder-wrap{
 display: flex;
@@ -91,69 +95,78 @@ text-align: center;
 gap: 40px;
 }
 
-.heder-wrap-link{
+/* .heder-wrap-link{
 
 }
 
 
 .heder-adres{
 
-}
+} */
 
 .heder-socials-info{
 display: flex;
 gap: 25px;
 }
-.nav-mailto{
+/* .nav-mailto{
 
 }
 
 .tel{
 
-}
+} */
 /* hero */
-.hero{
+/* .hero{
 
-}
+} */
 
 .hero-div{
 padding: 30px 20px;
 border-radius: 30px;
-background-color: #2E2F42;
+background-color: #f0bff7;
 }
 
 .hero-info{
+color: #295f5b;
+font-size: 20px;
+text-align: center;
+}
 
+.hero-info-wrap{
+color: #302828;
+text-align: left;
 }
 
 /* project-experience */
 
-.project-experience{
+/* .project-experience{
 
-}
+} */
 
 .project-div{
-
+padding-top: 30px;
+max-width: 530px;
+padding-bottom: 30px;
 }
 
 .project-wrap{
-
+color: #f8d769;
 }
 
 .project-input{
-
+text-align: left;
 }
-
+/* 
 .project-tabl{
 
-}
+} */
 
 /* tech-skills */
 
 .tech-skills{
-
+color: #fa7436;
 }
-
+/* 
 .tech-div{
 
 }
@@ -168,18 +181,18 @@ background-color: #2E2F42;
 
 .tech-tabl{
 
-}
+} */
 
 /* soft-skills */
 
 .soft-skills{
-
+color: #57d1f7;
 }
 
 .soft-div{
-
+padding-top: 30px;
 }
-
+/* 
 .soft-wrap{
 
 }
@@ -190,40 +203,56 @@ background-color: #2E2F42;
 
 .soft-tabl{
 
-}
+} */
 
 /* section-languages */
 
-.section-languages{
+/* .section-languages{
 
-}
+} */
 
 .section-languages-div{
-
+padding-top: 30px;
+color: #1965f1;
 }
 
-.section-languages-wrap{
+/* .section-languages-wrap{
 
-}
+} */
 
 .languages-paragraf{
-
+color: #fa1313;
+margin-top: 10px;
+margin-bottom: 10px;
 }
-
+/* 
 .section-languages-input{
 
-}
+} */
 
 .section-languages-tabl{
-
+color: #f7b4b4;
 }
 
 /* interests */
 
-.section-interests{
+/* .section-interests{
+
+} */
+
+.interests-div{
+padding-top: 45px;
+}
+
+/* .interests-wrap{
 
 }
 
-.interests-div{
+.interests-wrap{
 
+} */
+
+.interests-paragraf{
+margin-top: 10px;
+font-size: 20px;
 }
